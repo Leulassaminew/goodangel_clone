@@ -1,0 +1,4 @@
+openai==0.28.1
+pydub==0.25.1
+torch==2.0.0
+elevenlabs
